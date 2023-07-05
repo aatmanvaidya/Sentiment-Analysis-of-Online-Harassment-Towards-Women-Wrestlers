@@ -1,1 +1,3 @@
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+scraper/.env
+**/__pycache__/
