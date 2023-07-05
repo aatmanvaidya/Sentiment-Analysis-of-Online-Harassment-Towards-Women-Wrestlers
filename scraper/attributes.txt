@@ -1,0 +1,27 @@
+videoId: The ID of the YouTube video to which the comment belongs.
+
+textDisplay: The display text of the comment. It represents the comment's content as shown on YouTube, including any formatting or special characters.
+
+textOriginal: The original text of the comment. It represents the comment's content without any formatting or special characters.
+
+authorDisplayName: The display name of the user who posted the comment.
+
+authorProfileImageUrl: The URL of the profile image/avatar of the user who posted the comment.
+
+authorChannelUrl: The URL of the YouTube channel associated with the user who posted the comment.
+
+authorChannelId: The unique ID of the YouTube channel associated with the user who posted the comment.
+
+canRate: A boolean value indicating whether the authenticated user (the user making the API request) can rate/reply to the comment.
+
+viewerRating: The rating given by the authenticated user to the comment. Possible values are: 'none', 'like', or 'dislike'.
+
+likeCount: The number of likes received by the comment.
+
+publishedAt: The date and time when the comment was originally published.
+
+updatedAt: The date and time when the comment was last updated.
+
+parentId: The ID of the parent comment if the comment is a reply to another comment. If the comment is not a reply, this attribute is null.
+
+commentId: The unique ID of the comment.
