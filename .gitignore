@@ -2,3 +2,5 @@
 scraper/.env
 **/__pycache__/
 **/data/
+**/backup/
+**comments_july6.csv
