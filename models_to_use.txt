@@ -1,0 +1,5 @@
+1) Twitter roBERTa - https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
+2) Dolly v2
+3) BERTweet - https://github.com/VinAIResearch/BERTweet
+	https://github.com/VinAIResearch/BERTweet/blob/master/README_fairseq.md
+4) Open-LLaMa - https://github.com/openlm-research/open_llama

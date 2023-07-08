@@ -5,3 +5,5 @@ scraper/.env
 **/backup/
 **comments_july6.csv
 **.env
+**comments.csv
+data/comments.csv
