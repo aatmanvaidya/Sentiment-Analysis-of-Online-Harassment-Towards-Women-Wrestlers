@@ -3,3 +3,6 @@
 3) BERTweet - https://github.com/VinAIResearch/BERTweet
 	https://github.com/VinAIResearch/BERTweet/blob/master/README_fairseq.md
 4) Open-LLaMa - https://github.com/openlm-research/open_llama
+5) Google MuRIL - https://tfhub.dev/google/MuRIL/1
+6) Tamil Deep Learning Awesome List - https://github.com/narVidhai/tamil-nlp-catalog
+7) 
