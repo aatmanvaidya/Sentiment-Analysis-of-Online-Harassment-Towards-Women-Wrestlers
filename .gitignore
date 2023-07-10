@@ -1,9 +1,11 @@
 **/.ipynb_checkpoints/
 scraper/.env
+.ipynb_checkpoints/
+**.env
 **/__pycache__/
 **/data/
 **/backup/
 **comments_july6.csv
-**.env
-**comments.csv
 data/comments.csv
+**comments.csv
+
