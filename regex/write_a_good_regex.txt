@@ -1,4 +1,4 @@
-1) Preprocessing the Text:
+	1) Preprocessing the Text:
 	Convert all text to lowercase to ensure case-insensitive matching.
 	Remove punctuation marks, symbols, and special characters that may affect pattern matching.
 	Remove any irrelevant or noisy information, such as URLs or numbers.
@@ -7,11 +7,9 @@
 variations commonly used to express hate or negativity.
 	Consider incorporating sentiment lexicons or word lists specifically designed for 
 sentiment analysis, such as the NRC Word-Emotion Association Lexicon or the AFINN-111 wordlist.
-3) Constructing Regular Expressions:
-	Compile a regular expression pattern that matches the hateful words and their variations.
-	Consider using word boundaries (\b) to ensure exact word matches and avoid partial matches.
-	Utilize case-insensitive matching (re.IGNORECASE or re.I) to capture both uppercase and lowercase instances.
-	Group synonymous words or variations together using the pipe symbol (|) for an alternative match.
 
 NRC emotion list - https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/upshot-trump-emolex/notebooks/NRC%20Emotional%20Lexicon.ipynb
 Hurtlex - https://github.com/valeriobasile/hurtlex
+ADL hate symbols database
+
+https://arxiv.org/pdf/1812.06700.pdf - Hateminers : Detecting Hate speech against Women
