@@ -1,5 +1,5 @@
 # Sentiment-Analysis-of-Online-Harassment-Towards-Women-Wrestlers
 
-Assessment Task for Tattle. 
+Assessment Task for Tattle.
 
-<iframe src="youtube_comments_analysis.html" width="800" height="600"></iframe>
+Used a [Slur List](https://github.com/tattle-made/Uli/blob/main/browser-extension/plugin/scripts/slur-list.txt) created and crowdsourced by [Tattle](https://tattle.co.in/) to analyse and track online harassment of the women wrestlers engaged in the wrestles property. 
